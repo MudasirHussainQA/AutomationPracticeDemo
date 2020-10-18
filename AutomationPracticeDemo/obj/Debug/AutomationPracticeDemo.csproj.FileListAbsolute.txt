@@ -13,3 +13,18 @@ C:\Users\Mudasir\Documents\Visual Studio 2015\Projects\AutomationPracticeDemo\Au
 C:\Users\Mudasir\Documents\Visual Studio 2015\Projects\AutomationPracticeDemo\AutomationPracticeDemo\obj\Debug\AutomationPracticeDemo.csprojResolveAssemblyReference.cache
 C:\Users\Mudasir\Documents\Visual Studio 2015\Projects\AutomationPracticeDemo\AutomationPracticeDemo\obj\Debug\AutomationPracticeDemo.dll
 C:\Users\Mudasir\Documents\Visual Studio 2015\Projects\AutomationPracticeDemo\AutomationPracticeDemo\obj\Debug\AutomationPracticeDemo.pdb
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\AutomationPracticeDemo.dll
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\AutomationPracticeDemo.pdb
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\nunit.framework.dll
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\WebDriver.dll
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\WebDriver.Support.dll
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\nunit.framework.pdb
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\nunit.framework.xml
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\WebDriver.xml
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\WebDriver.Support.xml
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\obj\Debug\AutomationPracticeDemo.csprojResolveAssemblyReference.cache
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\obj\Debug\AutomationPracticeDemo.dll
+D:\UIAutomationProject\AutomationPracticeDemo\AutomationPracticeDemo\obj\Debug\AutomationPracticeDemo.pdb
